@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f1c34049
 license: CC0-1.0
+name: horses
 type: industry
+url: https://github.com/MonomCZ/horses
 version: 6
